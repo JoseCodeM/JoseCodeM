@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JoseCodeM Part-time student and part-time Uber Eats delivery driver!
+- 👋 Hi, I’m @JoseCodeM full time student at ZTM Coding bootcamp.
 - 👀 I’m interested in Lifting weights, working on cars with friends, watching anime, playing video games & of course learning how to program!
-- 🌱 I’m currently learning HTML/CSS, C++, Javascript! I'm Pursuing a Programming Certification at my local Community College.
+- 🌱 I’m currently learning HTML/CSS & Javascript!
 - 💞️ I’m looking to collaborate on any type of projects I can get my hands on! That's of course projects that I'm able to handle since I am still a noob at this. 
 - 📫 You can reach me by email @ JoseCodeM@gmail.com
 
